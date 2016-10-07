@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "3b566b7d948817fff4a848ecbeddfc75"
+build_time: [514499754, 949763000]
+inputs:
+  "/Users/johan/git/WOC2/WOC2 WatchKit Extension/NotificationController.swift": [514499752, 0]
+  "/Users/johan/git/WOC2/WOC2 WatchKit Extension/ExtensionDelegate.swift": [514499752, 0]
+  "/Users/johan/git/WOC2/WOC2 WatchKit Extension/ComplicationController.swift": [514499752, 0]
+  "/Users/johan/git/WOC2/WOC2 WatchKit Extension/InterfaceController.swift": [514499752, 0]
+  "/Users/johan/git/WOC2/WOC2 WatchKit Extension/GlanceController.swift": [514499752, 0]
